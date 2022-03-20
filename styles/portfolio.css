@@ -1,9 +1,38 @@
-h1 {
-  color: black;
-  font-family: "Playfair Display", serif;
-  font-weight: bold;
+:root {
+  --branding-color: rgb(232, 241, 248);
+  --primary-color: #fde1e6;
+  --secondary-color: rgb(248, 223, 248);
+  --tertiary-color: rgb(212, 241, 250);
+}
+h1,
+h2 {
+  font-family: "Poppins", serif;
+  font-weight: normal;
 }
 p {
   font-family: "Poppins", serif;
-  font-weight: normal;
+}
+img {
+  border-radius: 300px;
+}
+.hero {
+  background: var(--branding-color);
+  opacity: 0.9;
+  padding: 40px 20px;
+}
+.one {
+  background: var(--primary-color);
+  border-radius: 8px;
+}
+.two {
+  background: var(--secondary-color);
+  border-radius: 8px;
+  text-align: right;
+}
+.three {
+  background: var(--tertiary-color);
+  border-radius: 8px;
+}
+.input {
+  text-align: center;
 }
