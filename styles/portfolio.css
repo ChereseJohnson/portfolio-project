@@ -17,22 +17,17 @@ img {
 }
 .hero {
   background: var(--branding-color);
-  opacity: 0.9;
-  padding: 40px 20px;
+  padding: 40px;
 }
-.one {
+.cardOne {
+  background: linear-gradient(
+    68.6deg,
+    rgb(252, 165, 241) 1.8%,
+    rgb(181, 255, 255) 100.5%
+  );
+  margin: 20px;
+}
+.cardTwo {
   background: var(--primary-color);
-  border-radius: 8px;
-}
-.two {
-  background: var(--secondary-color);
-  border-radius: 8px;
-  text-align: right;
-}
-.three {
-  background: var(--tertiary-color);
-  border-radius: 8px;
-}
-.input {
-  text-align: center;
+  margin: 20px;
 }
