@@ -215,3 +215,38 @@ img {
   margin: 10px;
   border-radius: 5px;
 }
+.solo {
+  background: #38598b;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.duo {
+  background: #38598b;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.team {
+  background: #38598b;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.group {
+  background: #38598b;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.live {
+  background: #38598b;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+}
