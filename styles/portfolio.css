@@ -15,6 +15,33 @@ p {
 img {
   border-radius: 300px;
 }
+.logo {
+  max-width: 100px;
+}
+nav {
+  padding: 20px 0;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 100px;
+}
+nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #272142;
+}
+nav li.active a {
+  color: rgb(78, 78, 216);
+}
+nav a:hover {
+  transition: all 100ms ease-in-out;
+}
 .hero {
   background: var(--branding-color);
   padding: 40px;
