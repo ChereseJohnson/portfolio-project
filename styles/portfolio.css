@@ -69,3 +69,149 @@ img {
   color: honeydew;
   border-radius: 5px;
 }
+.container-game-page {
+  padding: 15px;
+  margin: 10px;
+  font-family: "Poppins", serif;
+  font-size: 24px;
+}
+.solitaire {
+  background: blue;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.pinball {
+  background: white;
+  color: red;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.snake {
+  background: black;
+  color: green;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.drawing {
+  background: red;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.jenga {
+  background: rgb(255, 217, 0);
+  color: black;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.connect {
+  background: black;
+  color: red;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.checkers {
+  background: red;
+  color: black;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.chess {
+  background: black;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.tag {
+  background: white;
+  color: black;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.monoploy {
+  background: white;
+  color: green;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.life {
+  background: white;
+  color: blue;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.basketball {
+  background: black;
+  color: orange;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.quizzes {
+  background: blue;
+  color: yellow;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.battlefield {
+  background: green;
+  color: black;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.room {
+  background: black;
+  color: gray;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.mystery {
+  background: gray;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.sims {
+  background: white;
+  color: green;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.nba {
+  background: orange;
+  color: black;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.nfl {
+  background: green;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.independent {
+  background: Black;
+  color: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
