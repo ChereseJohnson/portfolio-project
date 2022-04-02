@@ -250,3 +250,92 @@ img {
   margin: 10px;
   border-radius: 10px;
 }
+.container-chat {
+  padding: 10px;
+  margin: 15px;
+  font-family: "Poppins", serif;
+  font-size: 24px;
+}
+.gamer {
+  background: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.fashion {
+  background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.celeb {
+  background: radial-gradient(
+    circle at 12.3% 19.3%,
+    rgb(85, 88, 218) 0%,
+    rgb(95, 209, 249) 100.2%
+  );
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.anime {
+  background: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.movie {
+  background: radial-gradient(
+    circle at 0.2% 1.8%,
+    rgb(255, 90, 8) 0%,
+    rgb(88, 0, 0) 100.2%
+  );
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.foodie {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(228, 118, 0) 0%,
+    rgb(247, 189, 2) 90%
+  );
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.music {
+  background: linear-gradient(
+    111.5deg,
+    rgb(187, 232, 255) 11.1%,
+    rgb(4, 78, 116) 107.5%
+  );
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.sports {
+  background: radial-gradient(
+    759px at 14% 22.3%,
+    rgb(10, 64, 88) 0%,
+    rgb(15, 164, 102) 90%
+  );
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.pop {
+  background: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+  color: white;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
