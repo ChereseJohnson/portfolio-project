@@ -8,6 +8,14 @@ h1,
 h2 {
   font-family: "Poppins", serif;
   font-weight: normal;
+  margin: 50px;
+}
+.btn-group {
+  margin: 20px;
+  padding: 10px;
+}
+h4 {
+  font-size: 32px;
 }
 p {
   font-family: "Poppins", serif;
@@ -19,7 +27,7 @@ img {
   max-width: 100px;
 }
 nav {
-  padding: 20px 0;
+  padding: 5px 0;
 }
 
 nav ul {
@@ -29,7 +37,7 @@ nav ul {
 nav li {
   display: inline;
   list-style: none;
-  line-height: 100px;
+  line-height: 80px;
 }
 nav a {
   margin-left: 15px;
@@ -41,6 +49,33 @@ nav li.active a {
 }
 nav a:hover {
   transition: all 100ms ease-in-out;
+}
+footer .chat-box {
+  background: var(--branding-color);
+  padding: 30px 120px;
+}
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  padding: 15px;
+}
+footer .email-link:hover {
+  color: rgb(78, 78, 216);
+}
+footer .social-links a {
+  margin: 0 20px;
+  color: rgb(78, 78, 216);
+  background: var(--branding-color);
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 24px;
+  transition: all 150ms ease-in-out;
+}
+footer .social-links:hover a {
+  color: white;
+  background: rgb(78, 78, 216);
 }
 .hero {
   background: var(--branding-color);
